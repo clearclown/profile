@@ -1,0 +1,9 @@
+/* スタイルの例 */
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
